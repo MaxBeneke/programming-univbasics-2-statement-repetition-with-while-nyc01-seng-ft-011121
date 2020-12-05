@@ -1,3 +1,3 @@
-while true do
-  puts "say this forever"
-end
+count = 10
+
+while count > 0 
